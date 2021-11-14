@@ -28,8 +28,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_welcome","path":"rooms/rm_welcome/rm_welcome.yy",},},
     {"roomId":{"name":"rm_lvl1","path":"rooms/rm_lvl1/rm_lvl1.yy",},},
+    {"roomId":{"name":"rm_welcome","path":"rooms/rm_welcome/rm_welcome.yy",},},
     {"roomId":{"name":"rm_lvl2","path":"rooms/rm_lvl2/rm_lvl2.yy",},},
     {"roomId":{"name":"rm_lvl3","path":"rooms/rm_lvl3/rm_lvl3.yy",},},
     {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},

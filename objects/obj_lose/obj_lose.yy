@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "screens",
+    "path": "folders/Objects/screens.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_lose",

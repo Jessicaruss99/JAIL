@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"spr_playerguide","path":"sprites/spr_playerguide/spr_playerguide.yy",},"order":16,},
     {"id":{"name":"spr_playbutton","path":"sprites/spr_playbutton/spr_playbutton.yy",},"order":2,},
     {"id":{"name":"spr_instructionsbutton","path":"sprites/spr_instructionsbutton/spr_instructionsbutton.yy",},"order":1,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":1,},
@@ -10,6 +11,7 @@
     {"id":{"name":"spr_lose","path":"sprites/spr_lose/spr_lose.yy",},"order":2,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":2,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":1,},
+    {"id":{"name":"obj_playerguide","path":"objects/obj_playerguide/obj_playerguide.yy",},"order":15,},
     {"id":{"name":"spr_win","path":"sprites/spr_win/spr_win.yy",},"order":4,},
     {"id":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},"order":5,},
     {"id":{"name":"spr_welcome","path":"sprites/spr_welcome/spr_welcome.yy",},"order":3,},
@@ -23,6 +25,7 @@
     {"id":{"name":"rm_lvl1","path":"rooms/rm_lvl1/rm_lvl1.yy",},"order":1,},
     {"id":{"name":"spr_previouslevel","path":"sprites/spr_previouslevel/spr_previouslevel.yy",},"order":14,},
     {"id":{"name":"spr_nextlevel","path":"sprites/spr_nextlevel/spr_nextlevel.yy",},"order":13,},
+    {"id":{"name":"path_lvl1","path":"paths/path_lvl1/path_lvl1.yy",},"order":0,},
     {"id":{"name":"obj_creditsbutton","path":"objects/obj_creditsbutton/obj_creditsbutton.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":2,},
     {"id":{"name":"obj_lose","path":"objects/obj_lose/obj_lose.yy",},"order":2,},

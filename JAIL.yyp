@@ -18,6 +18,7 @@
     {"id":{"name":"obj_credits","path":"objects/obj_credits/obj_credits.yy",},"order":0,},
     {"id":{"name":"obj_playbutton","path":"objects/obj_playbutton/obj_playbutton.yy",},"order":2,},
     {"id":{"name":"obj_instructionsbutton","path":"objects/obj_instructionsbutton/obj_instructionsbutton.yy",},"order":1,},
+    {"id":{"name":"spr_backgroundlvl1","path":"sprites/spr_backgroundlvl1/spr_backgroundlvl1.yy",},"order":15,},
     {"id":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},"order":4,},
     {"id":{"name":"rm_lvl1","path":"rooms/rm_lvl1/rm_lvl1.yy",},"order":1,},
     {"id":{"name":"spr_previouslevel","path":"sprites/spr_previouslevel/spr_previouslevel.yy",},"order":14,},

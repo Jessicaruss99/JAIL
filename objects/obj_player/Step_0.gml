@@ -39,3 +39,4 @@ if (keyboard_check(vk_down) and !instance_place(x, y+move_speed, obj_block)) {
 //} else {
 //	gravity = .5;
 //}
+

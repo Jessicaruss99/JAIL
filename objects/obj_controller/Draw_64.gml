@@ -10,7 +10,7 @@ for (var i = 0; i < escapeattempts; i += 1)
 
 //draw number of keycards
 draw_text(400, 55, "Keycards Collected: ")
-for (var i = 0; i < keycards; i += 1)
+for (var i = 0; i < global.keycards; i += 1)
 {
-    draw_sprite(spr_keycard, 50, (575+30*i), 50);
+    draw_sprite(spr_keycard, 50, (575+30*i), 60);
 }

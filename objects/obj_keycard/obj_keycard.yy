@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_keycard",
+    "path": "sprites/spr_keycard/spr_keycard.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

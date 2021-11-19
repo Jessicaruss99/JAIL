@@ -1,0 +1,6 @@
+Sound Assets
+TBD
+
+Art Assests
+All sprite art created by Isabella Trivette
+All game menu art and buttons created by Isabella Trivette

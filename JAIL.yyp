@@ -25,6 +25,7 @@
     {"id":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},"order":4,},
     {"id":{"name":"obj_lvl3temp","path":"objects/obj_lvl3temp/obj_lvl3temp.yy",},"order":17,},
     {"id":{"name":"rm_lvl1","path":"rooms/rm_lvl1/rm_lvl1.yy",},"order":1,},
+    {"id":{"name":"obj_keycard","path":"objects/obj_keycard/obj_keycard.yy",},"order":20,},
     {"id":{"name":"spr_previouslevel","path":"sprites/spr_previouslevel/spr_previouslevel.yy",},"order":14,},
     {"id":{"name":"spr_nextlevel","path":"sprites/spr_nextlevel/spr_nextlevel.yy",},"order":13,},
     {"id":{"name":"path_lvl1","path":"paths/path_lvl1/path_lvl1.yy",},"order":0,},

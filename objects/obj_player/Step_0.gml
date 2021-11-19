@@ -27,12 +27,12 @@ if (keyboard_check(vk_down) and !instance_place(x, y+move_speed, obj_block)) {
 //	}
 //}
 
-if (keyboard_check(vk_up)){
-	if(instance_place(x, y+1, obj_block)){
-		vspeed = jump_height;
+//if (keyboard_check(vk_up)){
+//	if(instance_place(x, y+1, obj_block)){
+//		vspeed = jump_height;
 		
-	}
-}
+//	}
+//}
 	
 //	if(instance_place(x, y+1, obj_block)){
 //	gravity = 0;

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_keycard",
-    "path": "sprites/spr_keycard/spr_keycard.yy",
+    "name": "spr_keycardred",
+    "path": "sprites/spr_keycardred/spr_keycardred.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_keycard",
+  "name": "obj_keycardred",
   "tags": [],
   "resourceType": "GMObject",
 }

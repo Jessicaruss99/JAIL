@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_keycardred",
-    "path": "sprites/spr_keycardred/spr_keycardred.yy",
+    "name": "spr_keycardorange",
+    "path": "sprites/spr_keycardorange/spr_keycardorange.yy",
   },
   "solid": false,
   "visible": true,

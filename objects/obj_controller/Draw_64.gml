@@ -24,3 +24,72 @@ else{
 	
 	draw_sprite(spr_keycardred, 50, (575), 60);	
 }
+
+if(global.keycardorange ==false){
+	draw_sprite(spr_keycardnotfound, 50, (575+30*1), 60);
+		
+}
+else{
+	
+	draw_sprite(spr_keycardorange, 50, (575+30*1), 60);	
+}
+
+if(global.keycardyellow==false){
+	draw_sprite(spr_keycardnotfound, 50, (575+30*2), 60);
+		
+}
+else{
+	
+	draw_sprite(spr_keycardyellow, 50, (575+30*2), 60);	
+}
+
+
+if(global.keycardgreen==false){
+	draw_sprite(spr_keycardnotfound, 50, (575+30*3), 60);
+		
+}
+else{
+	
+	draw_sprite(spr_keycardgreen, 50, (575+30*3), 60);	
+}
+
+
+
+if(global.keycardblue==false){
+	draw_sprite(spr_keycardnotfound, 50, (575+30*4), 60);
+		
+}
+else{
+	
+	draw_sprite(spr_keycardblue, 50, (575+30*4), 60);	
+}
+
+
+
+if(global.keycardpurple==false){
+	draw_sprite(spr_keycardnotfound, 50, (575+30*5), 60);
+		
+}
+else{
+	
+	draw_sprite(spr_keycardpurple, 50, (575+30*5), 60);	
+}
+
+
+if(global.keycardpink==false){
+	draw_sprite(spr_keycardnotfound, 50, (575+30*6), 60);
+		
+}
+else{
+	
+	draw_sprite(spr_keycardpink, 50, (575+30*6), 60);	
+}
+
+if(global.keycardwhite==false){
+	draw_sprite(spr_keycardnotfound, 50, (575+30*7), 60);
+		
+}
+else{
+	
+	draw_sprite(spr_keycardwhite, 50, (575+30*7), 60);	
+}

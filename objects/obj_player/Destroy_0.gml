@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-escapeattempts -= 1;
-if (escapeattempts > 0) {
+global.escapeattempts -= 1;
+if (global.escapeattempts > 0) {
 
 	room_restart()
 } else {

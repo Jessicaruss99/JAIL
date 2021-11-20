@@ -3,7 +3,7 @@
 draw_set_colour($FFBFFBFF);
 draw_set_halign(fa_left)
 draw_text(400, 15, "Escape Attempts Remaining: ")
-for (var i = 0; i < escapeattempts; i += 1)
+for (var i = 0; i < global.escapeattempts; i += 1)
 {
     draw_sprite(spr_player, 50, (650+30*i), 10);
 }

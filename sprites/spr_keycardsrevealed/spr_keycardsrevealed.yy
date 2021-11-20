@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "keycards",
+    "path": "folders/Sprites/keycards.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_keycardsrevealed",

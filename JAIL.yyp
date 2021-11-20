@@ -1,6 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"spr_keycardsrevealed","path":"sprites/spr_keycardsrevealed/spr_keycardsrevealed.yy",},"order":23,},
+    {"id":{"name":"spr_keycardsrevealed","path":"sprites/spr_keycardsrevealed/spr_keycardsrevealed.yy",},"order":9,},
     {"id":{"name":"spr_playerguide","path":"sprites/spr_playerguide/spr_playerguide.yy",},"order":16,},
     {"id":{"name":"obj_keycardgreen","path":"objects/obj_keycardgreen/obj_keycardgreen.yy",},"order":3,},
     {"id":{"name":"spr_playbutton","path":"sprites/spr_playbutton/spr_playbutton.yy",},"order":2,},

@@ -3,7 +3,7 @@
     "name": "spr_nextlevel",
     "path": "sprites/spr_nextlevel/spr_nextlevel.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,

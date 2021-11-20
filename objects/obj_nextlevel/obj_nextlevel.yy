@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "interaction_blocks",
+    "path": "folders/Objects/interaction_blocks.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_nextlevel",

@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "spr_block",
-    "path": "sprites/spr_block/spr_block.yy",
+    "name": "spr_keycardred",
+    "path": "sprites/spr_keycardred/spr_keycardred.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "interaction_blocks",
-    "path": "folders/Objects/interaction_blocks.yy",
+    "name": "keycards",
+    "path": "folders/Objects/keycards.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_block",
+  "name": "obj_keycardblue",
   "tags": [],
   "resourceType": "GMObject",
 }

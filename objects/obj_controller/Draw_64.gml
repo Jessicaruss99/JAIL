@@ -14,7 +14,14 @@ draw_text(400, 55, "Keycards Collected: ")
 //{
 //    draw_sprite(spr_keycardnotfound, 50, (575+30*i), 60);
 //}
-
+if((global.keycardred==true) and (global.keycardyellow==true) 
+	and(global.keycardgreen==true)and (global.keycardpurple==true)
+	and(global.keycardpink==true)and (global.keycardwhite==true)
+	and(global.keycardorange==true)and (global.keycardblue==true)) 
+	{
+		draw_sprite(spr_keycardsrevealed, 50, (575), 60);
+	}
+	else{
 
 if(global.keycardred ==false){
 	draw_sprite(spr_keycardnotfound, 50, (575), 60);
@@ -93,10 +100,4 @@ else{
 	
 	draw_sprite(spr_keycardwhite, 50, (575+30*7), 60);	
 }
-if((global.keycardred==true) and (global.keycardyellow==true) 
-	and(global.keycardgreen==true)and (global.keycardpurple==true)
-	and(global.keycardpink==true)and (global.keycardwhite==true)
-	and(global.keycardorange==true)and (global.keycardblue==true)) 
-	{
-		draw_sprite(spr_keycardnotfound, 50, (575), 60);
 	}

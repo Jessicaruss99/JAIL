@@ -5,7 +5,7 @@ draw_set_halign(fa_left)
 draw_text(800, 15, "Escape Attempts: ")
 for (var i = 0; i < global.escapeattempts; i += 1)
 {
-    draw_sprite(spr_player, 50, (800+30*i), 50);
+    draw_sprite(spr_playerlives, 50, (800+75*i), 50);
 }
 
 //draw number of keycards

@@ -16,14 +16,20 @@ if (surface_exists(global.surf)) {
             draw_set_color(c_white);
             
 
-            
-			if !instance_exists(obj_flashlight){
-				//draw light on player
-				draw_set_alpha(.3);
+
+          
+			if !instance_exists(obj_flashlight)
+			{
+					//draw light on player
+					draw_set_alpha(.3);
             with (obj_player) {
                 draw_circle(x, y, 90, false);
+				}
+
             }
-			}else{
+		
+			
+			if instance_exists(obj_flashlight){
 				draw_set_alpha(.01);
             with (obj_player) {
                 draw_circle(x, y, 40, false);

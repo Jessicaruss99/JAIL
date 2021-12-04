@@ -2,23 +2,29 @@
 // You can write your code in this editor
 if (keyboard_check(vk_left) and !instance_place(x-move_speed, y, obj_block)) {
 	x += -move_speed;
+	sprite_index = spr_playerleft;
+
 
 }
 
 if (keyboard_check(vk_right) and !instance_place(x+move_speed, y, obj_block)) {
 	x += move_speed;
+	sprite_index = spr_playerright;
 
 }
 
 if (keyboard_check(vk_up) and !instance_place(x, y-move_speed, obj_block)) {
 	y += -move_speed;
+	sprite_index = spr_playerup;
 
 }
 
 if (keyboard_check(vk_down) and !instance_place(x, y+move_speed, obj_block)) {
 	y += move_speed;
+	sprite_index = spr_playerdown;
 
 }
+
 
 
 //if(keyboard_check(vk_up)){

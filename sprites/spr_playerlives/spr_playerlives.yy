@@ -7,14 +7,14 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 3,
-  "bbox_right": 46,
-  "bbox_top": 9,
+  "bbox_left": 5,
+  "bbox_right": 58,
+  "bbox_top": 2,
   "bbox_bottom": 96,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 50,
+  "width": 63,
   "height": 100,
   "textureGroupId": {
     "name": "Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"51583237-ba4a-4f3d-bd3e-55862da8af9a","path":"sprites/spr_playerlives/spr_playerlives.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"51583237-ba4a-4f3d-bd3e-55862da8af9a","path":"sprites/spr_playerlives/spr_playerlives.yy",},"LayerId":{"name":"b5e4026e-a906-4273-87b1-6e223e016e05","path":"sprites/spr_playerlives/spr_playerlives.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_playerlives","path":"sprites/spr_playerlives/spr_playerlives.yy",},"resourceVersion":"1.0","name":"51583237-ba4a-4f3d-bd3e-55862da8af9a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a0bf5a37-d3cc-480a-b401-6164fde4ac6f","path":"sprites/spr_playerlives/spr_playerlives.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a0bf5a37-d3cc-480a-b401-6164fde4ac6f","path":"sprites/spr_playerlives/spr_playerlives.yy",},"LayerId":{"name":"0998cbd3-4b8a-4596-a54d-adf7dd15242c","path":"sprites/spr_playerlives/spr_playerlives.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_playerlives","path":"sprites/spr_playerlives/spr_playerlives.yy",},"resourceVersion":"1.0","name":"a0bf5a37-d3cc-480a-b401-6164fde4ac6f","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_playerlives","path":"sprites/spr_playerlives/spr_playerlives.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"dd096ee4-1707-4cad-baf7-967d6a2d5496","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"51583237-ba4a-4f3d-bd3e-55862da8af9a","path":"sprites/spr_playerlives/spr_playerlives.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"be6f9529-29d2-4d77-a9d9-afdbe9ca4de7","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a0bf5a37-d3cc-480a-b401-6164fde4ac6f","path":"sprites/spr_playerlives/spr_playerlives.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -65,9 +65,33 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b5e4026e-a906-4273-87b1-6e223e016e05","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0998cbd3-4b8a-4596-a54d-adf7dd15242c","tags":[],"resourceType":"GMImageLayer",},
   ],
-  "nineSlice": null,
+  "nineSlice": {
+    "left": 0,
+    "top": 0,
+    "right": 0,
+    "bottom": 0,
+    "guideColour": [
+      4294902015,
+      4294902015,
+      4294902015,
+      4294902015,
+    ],
+    "highlightColour": 1728023040,
+    "highlightStyle": 0,
+    "enabled": false,
+    "tileMode": [
+      0,
+      0,
+      0,
+      0,
+      0,
+    ],
+    "resourceVersion": "1.0",
+    "loadedVersion": null,
+    "resourceType": "GMNineSliceData",
+  },
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",

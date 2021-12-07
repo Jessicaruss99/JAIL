@@ -86,6 +86,7 @@
     {"id":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},"order":6,},
     {"id":{"name":"spr_keycardnotfound","path":"sprites/spr_keycardnotfound/spr_keycardnotfound.yy",},"order":1,},
     {"id":{"name":"obj_welcome","path":"objects/obj_welcome/obj_welcome.yy",},"order":3,},
+    {"id":{"name":"spr_float","path":"sprites/spr_float/spr_float.yy",},"order":38,},
     {"id":{"name":"rm_instructions","path":"rooms/rm_instructions/rm_instructions.yy",},"order":7,},
     {"id":{"name":"obj_switchon","path":"objects/obj_switchon/obj_switchon.yy",},"order":27,},
     {"id":{"name":"spr_playerup","path":"sprites/spr_playerup/spr_playerup.yy",},"order":36,},

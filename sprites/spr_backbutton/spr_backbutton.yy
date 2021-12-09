@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 1919,
+  "bbox_right": 63,
   "bbox_top": 0,
-  "bbox_bottom": 1079,
+  "bbox_bottom": 63,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 1920,
-  "height": 1080,
+  "width": 64,
+  "height": 64,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c2164a29-0c8c-4264-9ebe-a3962246aaa2","path":"sprites/spr_win/spr_win.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c2164a29-0c8c-4264-9ebe-a3962246aaa2","path":"sprites/spr_win/spr_win.yy",},"LayerId":{"name":"75455756-4352-44c4-bc72-077f04055df6","path":"sprites/spr_win/spr_win.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_win","path":"sprites/spr_win/spr_win.yy",},"resourceVersion":"1.0","name":"c2164a29-0c8c-4264-9ebe-a3962246aaa2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9d39d1b6-bd65-4c03-af62-3b69cec6a877","path":"sprites/spr_backbutton/spr_backbutton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9d39d1b6-bd65-4c03-af62-3b69cec6a877","path":"sprites/spr_backbutton/spr_backbutton.yy",},"LayerId":{"name":"13787385-2235-4a94-8fe6-350340809d03","path":"sprites/spr_backbutton/spr_backbutton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_backbutton","path":"sprites/spr_backbutton/spr_backbutton.yy",},"resourceVersion":"1.0","name":"9d39d1b6-bd65-4c03-af62-3b69cec6a877","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_win","path":"sprites/spr_win/spr_win.yy",},
+    "spriteId": {"name":"spr_backbutton","path":"sprites/spr_backbutton/spr_backbutton.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"e1e6396d-43c1-4c14-8885-fbe1d42ddd77","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c2164a29-0c8c-4264-9ebe-a3962246aaa2","path":"sprites/spr_win/spr_win.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bf40f035-a272-48fb-afcc-add0a7b4ec8a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9d39d1b6-bd65-4c03-af62-3b69cec6a877","path":"sprites/spr_backbutton/spr_backbutton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,22 +58,22 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_win","path":"sprites/spr_win/spr_win.yy",},
+    "parent": {"name":"spr_backbutton","path":"sprites/spr_backbutton/spr_backbutton.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_win",
+    "name": "spr_backbutton",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"75455756-4352-44c4-bc72-077f04055df6","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"13787385-2235-4a94-8fe6-350340809d03","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "screens",
-    "path": "folders/Sprites/screens.yy",
+    "name": "buttons",
+    "path": "folders/Sprites/buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_win",
+  "name": "spr_backbutton",
   "tags": [],
   "resourceType": "GMSprite",
 }

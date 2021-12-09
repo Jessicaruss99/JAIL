@@ -8,6 +8,12 @@ if(room=rm_lvl1){
 	//}
 	if(global.keycardred==true){
 		room_goto_next();
+	} else {
+		with (instance_create_layer(x+32, y+32, "Instances", obj_texbox)) {
+		//message = other.text
+		depth = 100
+		}
+		
 	}
 }
 if(room=rm_lvl2){

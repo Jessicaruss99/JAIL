@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_nextlevel",
-    "path": "sprites/spr_nextlevel/spr_nextlevel.yy",
+    "name": "spr_doorarm",
+    "path": "sprites/spr_doorarm/spr_doorarm.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,17 +20,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "interaction_blocks",
-    "path": "folders/Objects/interaction_blocks.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_nextlevel",
+  "name": "obj_arm",
   "tags": [],
   "resourceType": "GMObject",
 }

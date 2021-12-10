@@ -1,6 +1,34 @@
 Sound Assets
-TBD
+Space Sprinkles by Matthew Pablo (CC0 - opengameart.org)
+https://opengameart.org/content/space-sprinkles
+
+The Adventure Begins by bart (CC BY 3.0 - opengameart.org)
+https://opengameart.org/content/adventure-begins
+
+Loading Screen Loop by Brandon Morris (CC0 - opengameart.org)
+https://opengameart.org/content/loading-screen-loop
+
+Dream Raid by Matthew Pablo (CC BY 3.0 - opengameart.org)
+https://opengameart.org/content/dream-raid-cinematic-action-soundtrack
+
+Key pickup 2 by Vinrax (CC BY 3.0 - opengameart.org)
+https://opengameart.org/content/key-pickup-2
+
+Life Pickup by Blender Foundation (CC BY 3.0 - opengameart.org)
+https://opengameart.org/content/life-pickup-yo-frankie
+
+Steps in wood floor by mikeask (CC0 - opengameart.org)
+https://opengameart.org/content/steps-in-wood-floor
+
+8bit Death Whirl by Fupi (CC0 - opengameart.org)
+https://opengameart.org/content/8bit-death-whirl
+
+Door open, door close set by qubodup (CC0 - opengameart.org)
+https://opengameart.org/content/door-open-door-close-set
+
+Menu Selection Click (CC BY 3.0 - opengameart.org)
+https://opengameart.org/content/menu-selection-click
 
 Art Assests
 All sprite art created by Isabella Trivette
-All game menu art and buttons created by Isabella Trivette
+All game menu art and buttons created by Isabella Trivette and Jessica Russ

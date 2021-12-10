@@ -57,7 +57,7 @@ biggest challenge yet!</p>
 <br>
 <b>Credits Screen</b>
 <br>
-<img src="" alt="Credits Screen">
+<img src="https://github.com/Jessicaruss99/JAIL/blob/main/credits%20(1).png" alt="Credits Screen">
 
 
 

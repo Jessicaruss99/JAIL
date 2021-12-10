@@ -2,6 +2,7 @@
 // You can write your code in this editor
 instance_destroy(other);
 global.keycardwhite =true;
+audio_play_sound(snd_key, 10, false)
 
 keyWhite = true
 event_perform(ev_draw, 0)

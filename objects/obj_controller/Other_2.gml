@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 global.game_over = false
-global.escapeattempts=5;
+global.escapeattempts=1;
 global.keycards = 8;
 global.keycardred =false;
 global.keycardorange =false;

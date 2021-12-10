@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_playbutton",
-    "path": "sprites/spr_playbutton/spr_playbutton.yy",
+    "name": "spr_backbutton",
+    "path": "sprites/spr_backbutton/spr_backbutton.yy",
   },
   "solid": false,
   "visible": true,

@@ -34,24 +34,24 @@ biggest challenge yet!</p>
 <h2>In Game Screenshots</h2>
 <b>Welcome </b>
 <br>
-<img src="" alt="Welcome Screen">
+<img src="https://github.com/Jessicaruss99/JAIL/blob/main/opening%20screen.png" alt="Welcome Screen">
 
 
 <br>
 <b>Instructions</b>
 <br>
-<img src="https://drive.google.com/file/d/1oJ0zSB8lZ4OrttmQmfv8QU7uTBb19lkc/view?usp=sharing" alt="Instructions Screen">
+<img src="https://github.com/Jessicaruss99/JAIL/blob/main/Artboard%202.png" alt="Instructions Screen">
 
 <br>
 <b>Win Screen</b>
 <br>
-<img src="" alt="Win Screen">
+<img src="https://github.com/Jessicaruss99/JAIL/blob/main/winscreen.png" alt="Win Screen">
 
 
 <br>
 <b>Lose Screen</b>
 <br>
-<img src="" alt="Lose Screen">
+<img src="https://github.com/Jessicaruss99/JAIL/blob/main/lose%20screen.png" alt="Lose Screen">
 
 
 <br>

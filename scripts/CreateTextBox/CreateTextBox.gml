@@ -6,8 +6,9 @@ function CreateTextBox(){
 	yD = camera_get_view_y(view_camera[0])
 	
 	//draw_sprite(argument0, 0, xD+20, yD+300)
-	draw_sprite_ext( argument0, 0, xD+50, yD+120, 0.2, 0.15, 0, c_white, 1 );
+	draw_sprite_ext( argument0, 0, 100, 1000, 1.2, 0.8, 0, c_white, 1 );
 
+	draw_set_font(fn_text) 
 	draw_set_color(c_black)
-	draw_text_ext(xD+120, yD+140, argument1, 24, 580)
+	draw_text_ext(500, 800, argument1, 75, 1000)
 }

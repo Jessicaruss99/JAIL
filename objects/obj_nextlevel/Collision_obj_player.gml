@@ -9,8 +9,9 @@ if(room=rm_lvl1){
 	if(global.keycardred==true){
 		room_goto_next();
 	} else {
+		instance_destroy(obj_texboxPlayer)
 		with (instance_create_layer(x+32, y+32, "Instances", obj_texbox)) {
-		//message = other.text
+		message = "Red Card Needed"
 		depth = 100
 		}
 		
@@ -23,6 +24,13 @@ if(room=rm_lvl2){
 	if((global.keycardyellow==true) and(global.keycardgreen==true)) {
 		
 		room_goto_next();
+	} else {
+		instance_destroy(obj_texboxPlayer)
+		with (instance_create_layer(x+32, y+32, "Instances", obj_texbox)) {
+		message = "Yellow and Green Card Needed" 
+		depth = 100
+		}
+		
 	}
 }
 if(room=rm_lvl3){
@@ -35,5 +43,12 @@ if(room=rm_lvl3){
 	and(global.keycardorange==true)and (global.keycardblue==true)) {
 		
 		room_goto_next();
+	} else {
+		instance_destroy(obj_texboxPlayer)
+		with (instance_create_layer(x+32, y+32, "Instances", obj_texbox)) {
+		message = "All Cards Needed" 
+		depth = 100
+		}
+		
 	}
 }

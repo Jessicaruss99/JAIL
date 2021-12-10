@@ -2,6 +2,7 @@
 // You can write your code in this editor
 
 if (room == rm_lvl1 || room == rm_lvl2 || room == rm_lvl3) {
+	draw_set_font(fn_HUD) 
 draw_set_colour($FFBFFBFF);
 draw_set_halign(fa_left)
 draw_text(800, 15, "Escape Attempts: ")
